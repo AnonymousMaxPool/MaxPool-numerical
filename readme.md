@@ -1,6 +1,6 @@
-# Numerical reliability of nonsmooth autodiff : a MaxPool case study
+# On the numerical reliability of nonsmooth autodiff: a MaxPool case study
 
-This is an official implementation of the paper Numerical reliability of nonsmooth autodiff : a MaxPool case study. Please cite the paper and star this repo if you find this useful. Thanks!
+This is an official implementation of the paper: On the numerical reliability of nonsmooth autodiff: a MaxPool case study. Please cite the paper and star this repo if you find this useful. Thanks!
 
 ## Dependencies
 
